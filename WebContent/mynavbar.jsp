@@ -6,7 +6,6 @@
 	  	<div class="container-fluid text-light">
 	    	<div class="navbar ml-auto text-uppercase" id="navbarSupportedContent">
 	      		<ul class="navbar-nav ml-auto">
-	      		
 	       			<li class="nav-item">
 	          			<a class="nav-link active" aria-current="page"  href="home.jsp">Search By Year</a>
 	        		</li>		
